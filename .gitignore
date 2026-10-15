@@ -1,0 +1,5 @@
+/QDITextureData.csv
+__pycache__/
+.pytest_cache/
+out/
+reports/
